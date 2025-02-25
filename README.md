@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu me chamo Gabriela Diana.</h2>
+<h2 align="left">Olá 👋! Eu me chamo Gabriela Diana.</h2>
 
 ### 🤖 Linguagens e Tecnologias
 

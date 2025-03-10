@@ -1,7 +1,8 @@
-<h2 align="left">Olá 👋! Eu me chamo Gabriela Diana.</h2>
+<h2 align="left">Olá, eu me chamo Gabriela Diana.</h2>
 
-### 🤖 Linguagens e Tecnologias
+Estudante do curso de Bacharelado em Ciência da Computação, pela Universidade Federal do Oeste do Pará (UFOPA).
 
+<br>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
@@ -17,10 +18,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
 </div>
+
+<br>
 
 ###
 
@@ -30,8 +30,11 @@
   </a>
 </div>
 
-### 📊 Estatísticas
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GDianaS&layout=compact&theme=tokyonight)](https://github.com/GDianaS/github-readme-stats)
-
-### 
+<div>
+  <a href="https://github.com/GDianaS/">
+    <img height=160 src="https://github-readme-stats.vercel.app/api?username=GDianaS&show_icons=true&theme=tokyonight&count_private=true&includes_all_commits=true" />
+    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDianaS&show_icons=true&hide=html&layout=compact&theme=tokyonight&count_private=true&includes_all_commits=true" />
+  </a>
+</div>

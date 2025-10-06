@@ -4,7 +4,7 @@ Estudante de **Bacharelado em Ciência da Computação** pela **Universidade Fed
 
 Atualmente, estou me aprofundando em:
 * **Aplicações Mobile:** Explorando o potencial do Kotlin Multiplatform (KMP) para desenvolvimento nativo e multiplataforma.
-* **Modelagem e Design:** Aperfeiçoando minhas habilidades de Modelagem 3D com Blender, o que complementa minha visão em design e UX.
+* **Modelagem e Design:** Aperfeiçoando minhas habilidades de Modelagem 3D com Blender.
 * **Análise de Dados:** Desenvolvendo meu interesse em Análise de Dados para tomar decisões mais informadas no desenvolvimento de software.
 
 ### 💻 Front-end & Mobile
@@ -16,13 +16,18 @@ Atualmente, estou me aprofundando em:
 ### 🧰 Ferramentas & Design
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
-###
-
+### 📨 Redes Sociais
 <div align="left">
   <a href="https://www.linkedin.com/in/gabriela-diana-sena-sousa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+---
 
-<br>
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=buefy"/>
 </div>
+

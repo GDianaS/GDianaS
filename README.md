@@ -13,10 +13,4 @@ Estudante do curso de Bacharelado em Ciência da Computação, pela Universidade
 </div>
 
 <br>
-
-<div>
-  <a href="https://github.com/GDianaS/">
-    <img height=160 src="https://github-readme-stats.vercel.app/api?username=GDianaS&show_icons=true&theme=tokyonight&count_private=true&includes_all_commits=true" />
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GDianaS&show_icons=true&hide=html&layout=compact&theme=tokyonight&count_private=true&includes_all_commits=true" />
-  </a>
 </div>
